@@ -6,7 +6,7 @@
   Replace every <PLACEHOLDER> below, then delete these comments.
 -->
 
-<h1 align="center">Hi, I'm Shashank Patel 👋</h1>
+<h1 align="center">Hi, I'm Shashank Kollur Patel 👋</h1>
 
 <p align="center">
   <b>Solutions Architect · AI & Integration</b><br>
