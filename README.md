@@ -26,7 +26,7 @@
 
 I'm a **Solutions Architect** focused on **AI and systems integration** - the work of turning a business requirement into an architecture, then wiring the pieces together so they hold up in production. That means designing API and middleware layers, integrating disparate platforms, and bringing AI capabilities into existing systems in a way that's reliable, secure, and maintainable rather than just a demo.
 
-- 🔭 Currently working on: **Keel** — an agentic AI agent for B2B EDI supply chains that flags revenue at risk when an order fails and recommends an alternative supplier
+- 🔭 Currently working on: **Keel** - an agentic AI agent for B2B EDI supply chains that flags revenue at risk when an order fails and recommends an alternative supplier
 - 🧱 Strengths: solution design, systems integration, API architecture, applied AI
 - 🧰 Hands-on with **IBM Bob** for AI-assisted integration & modernization workflows
 - 💬 Ask me about: integration patterns, API design, connecting AI services to enterprise systems, trade-offs between build vs. buy
@@ -41,7 +41,7 @@ I'm a **Solutions Architect** focused on **AI and systems integration** - the wo
 
 | Project | What it does | Focus |
 |---|---|---|
-| **[Keel](https://github.com/algoshank-pat/<REPO>)** | Agentic AI for B2B EDI supply chains — detects failing orders, quantifies revenue at risk, and recommends an alternative supplier, all on top of your existing API/integration layer. | `Agentic AI` `EDI` `Integration` |
+| **[Keel](https://github.com/algoshank-pat/<REPO>)** | Agentic AI for B2B EDI supply chains - detects failing orders, quantifies revenue at risk, and recommends an alternative supplier, all on top of your existing API/integration layer. | `Agentic AI` `EDI` `Integration` |
 | **[<PROJECT 2>](https://github.com/algoshank-pat/<REPO>)** | <One sentence.> | `Architecture` |
 | **[<PROJECT 3>](https://github.com/algoshank-pat/<REPO>)** | <One sentence.> | `Automation` |
 
@@ -70,8 +70,8 @@ I'm a **Solutions Architect** focused on **AI and systems integration** - the wo
 ![Google AI Fundamentals](https://img.shields.io/badge/Google-AI_Fundamentals-4285F4?style=flat&logo=google&logoColor=white)
 ![Anthropic Claude 101](https://img.shields.io/badge/Anthropic-Claude_101-D97757?style=flat&logo=anthropic&logoColor=white)
 
-- **AI Fundamentals** — Google (part of the Google AI Professional Certificate)
-- **Claude 101** — Anthropic (Anthropic Academy)
+- **AI Fundamentals** - Google (part of the Google AI Professional Certificate)
+- **Claude 101** - Anthropic (Anthropic Academy)
 
 ---
 
