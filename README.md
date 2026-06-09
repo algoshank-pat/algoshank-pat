@@ -41,7 +41,7 @@ I'm a **Solutions Architect** focused on **AI and systems integration** - the wo
 |---|---|---|
 | **[Keel](https://github.com/algoshank-pat/keel)** | Agentic AI for B2B EDI supply chains - detects failing orders, quantifies revenue at risk, and recommends an alternative supplier, all on top of your existing API/integration layer. | `Agentic AI` `EDI` `Integration` |
 | **[starlink-over-state-tracker](https://github.com/algoshank-pat/starlink-over-state-tracker)** | Real-time Streamlit dashboard tracking SpaceX Starlink satellites using SGP4 orbital mechanics. | `Architecture` |
-| **[<PROJECT 3>](https://github.com/algoshank-pat/<REPO>)** | <One sentence.> | `Automation` |
+| **[sacral-news-aggregator](https://github.com/algoshank-pat/sacral-news-aggregator)** | Sacral Agenesis medical news aggregator | `Automation` |
 
 > 💡 Pin these on your profile (Customize your pins → select them) so they sit right under this README.
 
