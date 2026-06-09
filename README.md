@@ -39,7 +39,7 @@ I'm a **Solutions Architect** focused on **AI and systems integration** - the wo
 
 | Project | What it does | Focus |
 |---|---|---|
-| **[Keel](https://github.com/algoshank-pat/<REPO>)** | Agentic AI for B2B EDI supply chains - detects failing orders, quantifies revenue at risk, and recommends an alternative supplier, all on top of your existing API/integration layer. | `Agentic AI` `EDI` `Integration` |
+| **[Keel](https://github.com/algoshank-pat/keel)** | Agentic AI for B2B EDI supply chains - detects failing orders, quantifies revenue at risk, and recommends an alternative supplier, all on top of your existing API/integration layer. | `Agentic AI` `EDI` `Integration` |
 | **[<PROJECT 2>](https://github.com/algoshank-pat/<REPO>)** | <One sentence.> | `Architecture` |
 | **[<PROJECT 3>](https://github.com/algoshank-pat/<REPO>)** | <One sentence.> | `Automation` |
 
