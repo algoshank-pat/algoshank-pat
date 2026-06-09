@@ -24,7 +24,7 @@
 
 ### 🧩 What I work on
 
-I'm a **Solutions Architect** focused on **AI and systems integration** — the work of turning a business requirement into an architecture, then wiring the pieces together so they hold up in production. That means designing API and middleware layers, integrating disparate platforms, and bringing AI capabilities into existing systems in a way that's reliable, secure, and maintainable rather than just a demo.
+I'm a **Solutions Architect** focused on **AI and systems integration** - the work of turning a business requirement into an architecture, then wiring the pieces together so they hold up in production. That means designing API and middleware layers, integrating disparate platforms, and bringing AI capabilities into existing systems in a way that's reliable, secure, and maintainable rather than just a demo.
 
 - 🔭 Currently working on: **Keel** — an agentic AI agent for B2B EDI supply chains that flags revenue at risk when an order fails and recommends an alternative supplier
 - 🧱 Strengths: solution design, systems integration, API architecture, applied AI
