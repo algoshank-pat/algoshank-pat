@@ -41,6 +41,8 @@ I'm a **Solutions Architect** focused on **AI and systems integration** - the wo
 |---|---|---|
 | **[Beacon](https://github.com/algoshank-pat/beacon)** | Job-search automation for H-1B/visa-sponsorship-sensitive candidates - ingests postings from 5 sources, screens every one for sponsorship red flags automatically, and only calls AI for the genuinely ambiguous cases. 100,000+ postings processed for under $9 total. | `AI Cost Optimization` `Automation` `Google Sheets API` |
 | **[Keel](https://github.com/algoshank-pat/keel)** | Agentic AI for B2B EDI supply chains - detects failing orders, quantifies revenue at risk, and recommends an alternative supplier, all on top of your existing API/integration layer. | `Agentic AI` `EDI` `Integration` |
+| **[NIBO](https://github.com/algoshank-pat/NIBO)** | Multi-agent notebook orchestration system for AI-driven data pipeline design - generates, validates, and executes Jupyter notebooks from natural language specifications using Claude API. | `Agentic AI` `LLM Orchestration` `Data Engineering` |
+| **[algofactory](https://github.com/algoshank-pat/algofactory)** | Algorithm factory & code generation toolkit - scaffold, test, and deploy algorithmic solutions via agentic workflows; templates for common patterns in fintech, supply chain, and logistics domains. | `Code Generation` `Agentic AI` `DevOps` |
 | **[starlink-over-state-tracker](https://github.com/algoshank-pat/starlink-over-state-tracker)** | Real-time Streamlit dashboard tracking SpaceX Starlink satellites using SGP4 orbital mechanics. | `Architecture` |
 | **[sacral-news-aggregator](https://github.com/algoshank-pat/sacral-news-aggregator)** | Sacral Agenesis medical news aggregator | `Automation` |
 
